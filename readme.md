@@ -50,7 +50,7 @@ This approach outperforms standard LLMs by ensuring:
 
 
 
-## 🚀 How to Run
+## How to Run
 1. **Clone repo**:
    ```bash
    git clone https://github.com/rizwan0110/PerformanceX.git
