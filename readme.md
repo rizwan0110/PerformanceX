@@ -43,11 +43,10 @@ This approach outperforms standard LLMs by ensuring:
 
 ## Folder Structure
 
-PerformanceX/
-│
-├── Chat App/ # Files for chatbot
-├── Data Upload App/ # Files for Document ingestion & embedding app
-├── Data/ # Dataset used
+- PerformanceX/
+- --Chat App/ # Files for chatbot
+- --Data Upload App/ # Files for Document ingestion & embedding app
+- --Data/ # Dataset used
 
 
 
